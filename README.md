@@ -1,45 +1,69 @@
-# ChromaShift
-Chroma Shift
-Welcome to the **Chroma Shift** repository!
+# 🎨 ChromaShift
 
-Chroma Shift is an educational and fun video game project, designed to introduce **beginners to game development** using Unity. This minimalist game aims to provide a relaxing and colorful experience, ideal for learning the basics of game creation.
+[🕹️ Joue à la démo sur Itch.io](https://hexok2.itch.io/chromashift)
 
-## 🎮 The Game
-Step into the shoes of a small character in an abstract and colorful world. Your objective? Collect specific colored objects to progress through ten unique levels. Each level introduces new challenges, various obstacles (walls, holes, moving platforms, teleporters), and increasing collection goals.
+> **Statut** : 🧪 En cours de développement  
+> **Dernier build jouable** disponible sur itch.io !
 
-The game focuses on:
+**ChromaShift** est un jeu vidéo éducatif en développement, conçu pour initier les débutants à la création de jeux avec **Unity**. Le but est d’offrir une expérience de jeu simple, colorée et relaxante tout en expérimentant les bases du game design.
 
-- Fluid character movement.
+---
 
-- Intuitive object collection.
+## 🎮 À propos du jeu
 
-- A gentle progression of difficulty through thematic levels.
+Incarne un petit personnage dans un monde abstrait où tu dois **collecter des objets colorés** pour avancer à travers des niveaux remplis d'obstacles.
 
-## 🛠️ Technical Aspects
-- Game Engine: Developed with Unity 6.
+### 🧩 Caractéristiques prévues :
 
-- Assets: Uses simple geometric shapes and vibrant colors, complemented by sounds and music from free libraries.
+- Mouvements fluides
+- Collecte intuitive d'objets colorés
+- Obstacles variés : murs, trous, plateformes mobiles, téléporteurs
+- 10 niveaux avec difficulté croissante
+- Système de bonus, pièges et minuterie (à venir)
 
-- Key Scripts: PlayerController (movement), Collectible (object collection), LevelManager (level and objective management), Obstacle (obstacle behavior). Scripts for bonuses, traps, and a timer are also planned.
+---
 
-## 🗓️ Project Status & Planning
-This project is designed as a complete learning journey, from initial conception to finalization. Development is structured over approximately two months of part-time work, including:
+## 🛠️ Développement
 
-- Conception and asset creation.
+- **Moteur** : Unity 6
+- **Graphismes** : formes géométriques simples et palette vive
+- **Audio** : sons et musiques libres de droits (pas encore ajouté)
 
-- Implementation of core mechanics and levels.
+### Scripts principaux :
 
-- Addition of advanced features (bonuses, traps, timer).
+- `PlayerController` – Mouvement du joueur  
+- `Collectible` – Gestion des objets à collecter  
+- `LevelManager` – Progression & objectifs  
+- `Obstacle` – Comportement des obstacles  
+- Et plus à venir...
 
-- Testing and adjustment phases.
+---
 
-- Finalization of interfaces (menus, options, credits).
+## 📅 Planning
 
-## 💡 Who Is This For?
-- Beginner game developers (especially with Unity).
+Ce projet est développé à temps partiel sur plusieurs semaines, avec les étapes suivantes :
 
-- Anyone looking for a simple and relaxing game experience.
+- ✅ Base du gameplay
+- ✅ Premier prototype jouable
+- ⏳ Améliorations et nouveaux niveaux
+- 🔜 Menus, effets, interfaces finales
+- 📦 Optimisation & build final
 
-- Educators seeking an accessible project example.
+---
 
-Feel free to explore the code and follow our progress!
+## 👤 Pour qui ?
+
+- Débutants en développement Unity
+- Étudiants, enseignants ou curieux
+- Joueurs à la recherche d’un jeu léger et expérimental
+
+---
+
+## 🔗 Liens utiles
+
+- 🎮 **Démo jouable sur itch.io** : [https://hexok2.itch.io/chromashift](https://hexok2.itch.io/chromashift)
+
+---
+
+Merci de suivre le développement de **ChromaShift** 💜  
+N'hésitez pas à donner un retour ou à forker le projet pour apprendre !
